@@ -11,7 +11,7 @@ const config = [
         no participation fee.
       </Trans>,
       <Trans>
-        In the Public Sale, everyone with an active PancakeSwap profile can commit. However the maximum amount of CAKE
+        In the Public Sale, everyone with an active VknightHub profile can commit. However the maximum amount of CAKE
         user can commit, is equal to the average CAKE balance in the IFO CAKE pool prior to the IFO. And there’s a fee
         for participation: see below.
       </Trans>,
@@ -25,7 +25,7 @@ const config = [
         We recommend you to check if you are eligible to participate in the Private Sale first. In the Public Sale, if
         the amount you commit is too small, you may not receive a meaningful amount of IFO tokens.
       </Trans>,
-      <Trans>Just remember you need an active PancakeSwap Profile in order to participate.</Trans>,
+      <Trans>Just remember you need an active VknightHub Profile in order to participate.</Trans>,
     ],
   },
   {

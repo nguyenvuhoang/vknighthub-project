@@ -12,7 +12,7 @@ cypress/screenshots
 cypress/fixtures/example.json
 
 # next.js
-.next/
+.next/*
 out/
 .idea/
 
