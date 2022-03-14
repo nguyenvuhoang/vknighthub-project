@@ -15,7 +15,7 @@ import {
 } from './pageSectionStyles'
 import useGetNextLotteryEvent from './hooks/useGetNextLotteryEvent'
 import useStatusTransitions from './hooks/useStatusTransitions'
-import Hero from './components/Hero'
+import Hero from '../About/components/Hero'
 import NextDrawCard from './components/NextDrawCard'
 import Countdown from './components/Countdown'
 import HistoryTabMenu from './components/HistoryTabMenu'

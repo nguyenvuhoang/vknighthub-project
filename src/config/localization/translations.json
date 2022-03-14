@@ -1569,7 +1569,6 @@
   "No Order History": "No Order History",
   "Open": "Open",
   "Pending": "Pending",
-  "Cancelled": "Cancelled",
   "Cancelling": "Cancelling",
   "Filled": "Filled",
   "Open Orders": "Open Orders",
@@ -1594,5 +1593,6 @@
   "Can't execute this order": "Can't execute this order",
   "Limit Orders": "Limit Orders",
   "Limit": "Limit",
-  "at market price": "at market price"
+  "at market price": "at market price",
+  "Our Mission" :"Our Mission"
 }

@@ -11,11 +11,11 @@ export const footerLinks: (t: ContextApi['t']) => FooterLinkType[] = (t) => [
       },
       {
         label: t('vKnightHub Network'),
-        href: 'https://',
+        href: '/network',
       },
       {
-        label: t('vKnightHub Label'),
-        href: 'https://',
+        label: t('vKnightHub Labs'),
+        href: '/labs',
       },
     ],
   },
@@ -25,7 +25,7 @@ export const footerLinks: (t: ContextApi['t']) => FooterLinkType[] = (t) => [
     items: [
       {
         label: t('Company'),
-        href: 'https://',
+        href: '/about',
       },
       {
         label: t('Communities'),
@@ -67,7 +67,7 @@ export const footerLinks: (t: ContextApi['t']) => FooterLinkType[] = (t) => [
       },
       {
         label: t('Email Us'),
-        href: 'https://',
+        href: 'mailto: support@vknight.io',
       },
     ],
   },
