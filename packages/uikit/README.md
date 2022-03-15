@@ -1,4 +1,4 @@
-# 🥞 Pancake UIkit
+# vKnightHub UIkit
 
 [![Version](https://img.shields.io/npm/v/@vknighthub/uikit)](https://www.npmjs.com/package/@vknighthub/uikit) [![Size](https://img.shields.io/bundlephobia/min/@vknighthub/uikit)](https://www.npmjs.com/package/@vknighthub/uikit)
 
