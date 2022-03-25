@@ -43,7 +43,7 @@ const PhishingWarningBanner: React.FC = () => {
   const { t } = useTranslation()
   const [, hideBanner] = usePhishingBannerManager()
   const { isMobile, isMd } = useMatchBreakpoints()
-  const warningText = t("please make sure you're visiting https://www.vknighthub.io - check the URL carefully.")
+  const warningText = t("Please make sure you're visiting https://www.vknight.io - check the URL carefully.")
   const warningTextAsParts = warningText.split(/(https:\/\/www.vknight.io)/g)
   const warningTextComponent = (
     <>
