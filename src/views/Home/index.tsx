@@ -1,6 +1,7 @@
 import { PageMeta } from 'components/Layout/Page'
 import PageSection from 'components/PageSection'
 import useTheme from 'hooks/useTheme'
+import { TokenUpdater } from 'state/info/updaters'
 import styled from 'styled-components'
 import Hero from './components/Hero'
 import MetricsSection from './components/MetricsSection'
@@ -57,6 +58,7 @@ const Home: React.FC = () => {
         index={2}
         hasCurvedDivider={false}
       >
+        <TokenUpdater />
         <TopToken />
       </PageSection>
       
